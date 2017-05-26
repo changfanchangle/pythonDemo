@@ -1,0 +1,608 @@
+
+Skip to content
+Features
+Business
+Explore
+Marketplace
+Pricing
+@changfanchangleYour dashboard
+The GitHub Blog
+
+    Featured
+    All Posts
+    New Features
+    Engineering
+    Enterprise
+    Education
+    Conferences
+    Meetups
+    New Hires
+    Watercooler
+
+Subscribe
+Introducing GitHub Marketplace
+
+Discover and buy apps that extend your workflow.
+
+Browse Marketplace
+Mission Report: GitHub Satellite
+
+    May 26, 2017 @stephbwills stephbwills Conferences 
+
+Keynote at GitHub Satelite
+
+Earlier this week, we kicked off the second GitHub Satellite in London. In case you missed it, here are some highlights, along with a summary of platform updates we shared.
+
+We started day one at Printworks with a keynote by GitHub CEO Chris Wanstrath and Platform Engineering Manager Kyle Daigle. They shared a few platform updates, including the launch of GitHub Marketplace, a new way to discover and buy apps that customize your workflow.
+
+On day two, we worked with chatbots, Electron, and Arduinos in hands-on workshops, and we ended the day with cocktails and refreshments at White Rabbit, an airy Shoreditch workspace.
+
+arduino workshop
+Platform updates
+
+We launched a couple tools that make it easier to build on your process and integrate with GitHub in addition to GitHub Marketplace. Check out the production-ready version of our GraphQL API and GitHub Apps, fresh out of pre-release. For more details, see the platform update blog post.
+Sponsors
+
+GitHub Satellite would not have been possible without the support of our sponsors who provided coffee, waffles, floral installations, and mustachioed mascots made of LEGOS.
+
+Sponsors of GitHub Satellite
+Thank you
+
+Finally, thank you to our community for launching the second Satellite into orbit��you made this one the best yet. We'd love to see you again at CodeConf and ElectronConf in July, and at GitHub Universe in October!
+Announcing GitHub Universe early bird tickets and speaker submissions
+
+    May 25, 2017 @mandyzc mandyzc Conferences 
+
+Universe
+
+GitHub Universe, our flagship product and community conference, is just a few months away on October 10-12 at Pier 70 in San Francisco. Secure your spot with an early bird ticket or submit a speaker proposal if you'd like to lead a session.
+Be at the center of Universe
+Pick up an early bird ticket
+
+Early bird tickets are available now for $399 and include two GitHub keynotes, four featured talks, 40 breakout sessions, and after party admission. You can also extend your Universe experience with a full day of hands-on workshops hosted by GitHub's Training Team. Early bird pricing will be available until August 1, but don't wait��they will sell out.
+
+Get early bird tickets
+Submit a speaker proposal
+
+We're also calling for speakers to share ideas about tools, people, and businesses behind software during the GitHub Universe breakout sessions. There are 40 sessions and four session tracks this year following these themes:
+
+    Code: It's the nuts and bolts of software. Which programming languages and frameworks are enabling you to build the next release or solve a tough technical challenge? What development environment and tools are you using to get your ideas into code? How is data and machine learning influencing what you're building?
+
+    Architecture: Every technical decision comes with trade-offs. How do you plan for the future while tackling the practical technical problems you're currently facing? Explore the how distributed systems impact your application architecture, how an API-first approach informs what features you're building, and how to balance performance, flexibility, and complexity with service-based applications.
+
+    Operations: Writing software is only half the battle. Shipping new code into production takes coordination between teams and an integrated set of tools. Share your experience maintaining a scalable infrastructure, connecting continuous integration and deployment systems, and extending your development workflow to include performance, monitoring, and resiliency.
+
+    People: Behind every line of code is a person writing it. How do we, both as individuals and teams, impact what software we build? Discuss the value of collaboration, the practice of managing engineers, the place of mental health and wellness, and the challenges of building community.
+
+If you have a story you'd like to share with the biggest developer community in the world, we'd love to hear from you. All levels of experience��in speaking and software��are welcome.
+
+Submit a proposal
+Experience last year's Universe
+Keep track of every project card with filtering
+
+    May 23, 2017 @jakeboxer jakeboxer New Features 
+
+With the new project card filtering feature, you can find the cards you're looking for at lightning speed��no matter how big your project is or how many contributors it has.
+
+screenshot of project card filtering
+
+If you know the title of the card you're looking for, just type it into the filter box to find it quickly. If you don't know the title, you can use one of our qualifiers to narrow cards down by label, author, and more.
+
+You can also use these qualifiers to filter your projects in powerful ways. For example, if you enter assignee:your-username into the filter box, you can easily view all of the cards that are assigned to you.
+
+For more information on GitHub project boards, check out the documentation.
+Introducing GitHub Marketplace and more tools to customize your workflow
+
+    May 22, 2017 @kdaigle kdaigle New Features 
+
+Today, we��re building on our launches at GitHub Universe 2016��making it easier than ever to evolve and customize your workflow. Find integrations and put them to work in minutes with GitHub Marketplace, pair developer tools and fine-grained repository permissions with GitHub Apps, or build the exact tool you need with a new, production-ready version of our GraphQL API. Together, these tools give you everything you need to set up a custom workflow that grows with your goals.
+GitHub Marketplace
+
+GitHub Marketplace is a new way to discover and purchase tools that extend your workflow. Find apps to use across your development process, from continuous integration to project management and code review. Then start using them without setting up multiple accounts or payment methods. More than a dozen integrators have apps in GitHub Marketplace today, including Travis CI, Appveyor, Waffle, ZenHub, Sentry, and Codacy��with more coming soon!
+
+Browse Marketplace or share what you��ve built with the GitHub community.
+GitHub Apps
+
+GitHub Apps (formerly Integrations) is now out of pre-release, giving you more control over what you build. As first-class actors, GitHub Apps take actions themselves directly through the API��no user impersonation (or user seat) required��and they have granular permissions to access only the content they need. Install them on an organization or user account, then give them access to the repositories of your choice. Learn more.
+GitHub GraphQL API
+
+The GitHub GraphQL API is fresh out of its Early Access program. Create your own tools with greater access to data than ever before using the same API that we use to build GitHub. Ask for the exact data you need in a single request and get updates in real time��no more hitting multiple endpoints or waiting for new ones after a feature has been released.
+
+Get started with the GitHub GraphQL API documentation.
+Recent updates
+
+In addition to these new releases, we have a few more platform updates to share:
+
+    A new Git and GitHub integration for Atom is ready for your desktops. The integration provides first-class Git functionality and access to GitHub workflows without leaving your favorite editor. Try it out
+    The new GitHub Desktop Beta is now available. It��s built on Electron and offers a unified experience across operating systems. Best of all, it's open source. Developers and teams can now customize and contribute to the client by adding features and extending to other operating systems. Get the app for Mac or PC
+
+See all the recent releases on github.com/updates.
+Get to know the Satellite speakers
+
+    May 19, 2017 @joenash joenash Conferences 
+
+satellite_blog_email_header
+
+Satellite speakers and attendees will be on their way to London next week for our biggest European conference to date. Learn more about the work and inspiration of two U.K.-based Satellite speakers, a GitHub Campus Expert and a Met Office Informatics Lab Lead Engineer.
+
+If you want to meet them in person, there's still time to get your Satellite ticket.
+Meet Amy Dickens
+
+GitHub Campus Expert - Computer Science PhD at The University of Nottingham
+
+How'd you get started in development?
+
+I started out in recording technology and sound engineering as my bachelor's degree. We did some basic audio programming using MaxMSP and IDE for audio programming, and from there, my love of building things grew. I picked up processing in my final year and then some front end web development skills. After that, I joined the University of Nottingham to do a PhD in Computer Science.
+
+What's the most interesting thing you're working on?
+
+I'm currently researching computer vision and human computer interaction for my PhD on "Gesture Controlled Sound for Users with Complex Disabilities".
+
+Do you have any side projects you want to share?
+
+Yes yes yes. I am hugely enthusiastic about building communities that help women to get into tech and that promote gender equality in the industry. I recently built an interactive map at a hackathon that I'd like to expand to showcase where women are in tech around the world! It's open source and I'm totally up for suggestions as to what to do with it next. Take a look.
+
+What are the biggest challenges you're dealing with?
+
+Sensors and making things see. I��m currently working on Leap Motion Sensors, but they struggle to detect hands of people with certain conditions that cause closed hand syndrome. Plus, getting to grips with convolution neural networks in machine learning. I've just spent a few days on an AI and Machine Learning track at the Codemotion conference in Amsterdam, and it's got me hyped to investigate it more and how it could help my research.
+
+Which emoji best represents you?
+
+Well, that's a no brainer��totally ??
+Meet Jacob Tomlinson
+
+Lead Engineer - Met Office Informatics Lab
+
+How'd you get started in development?
+
+Since the first time I clicked ��view source�� on a web page, I��ve been fascinated with how code and markup can be converted into complex functionality. My interest grew from there and lead me down the path to server side languages and databases. It was then I discovered the power of Linux and fell in love with system engineering and architecture.
+
+What's the most interesting thing you're working on?
+
+I'm currently working on a project called Jade which involves building scalable interactive data processing systems to empower environmental scientists.
+
+What are the best parts of what you do?
+
+One of the best parts of my job is getting to collaborate with and learn from incredible people in the technology field. I��m fortunate enough to work alongside top engineers from NASA, Amazon, Microsoft, and more.
+
+What does a normal day look like for you?
+
+An average day involves sitting around a large table with my team writing code and configuring servers. We often entertain visitors and collaborators and play a key role in communicating what the Met Office is working on. I always try to have a lunchtime walk in the surrounding countryside to clear my head.
+
+How do you manage your time?
+
+I keep an A6 bullet journal. I find it really important to have a physical task list as apps are far too easy to minimize and forget about.
+
+Do you have any side projects?
+
+In my spare time I have been working on a Python chatbot framework called opsdroid. I use it alongside the awesome Home Assistant project to talk to my smart home, and we use it to power our ChatOps workflow within our team. It��s designed to be easy to configure with everything contained in one yaml file and easy to extend with simple Python decorator syntax.
+
+What are the biggest challenges you're dealing with?
+
+As with many people, we just have far too much data to process in the ways we��re used to. Coming up with scalable, flexible, parallelized solutions for data processing is both the biggest challenge and most interesting thing I��m working on at the moment.
+
+Which emoji best represents you?
+
+Tough question. My most used emoji is ??, so I��ll have to go with that one.
+
+See who else is speaking at Satellite
+Announcing Git Integration for Atom and GitHub Desktop Beta
+
+    May 17, 2017 @Haacked Haacked New Features 
+
+Today's a big day for desktops everywhere. We're making the GitHub experience better beyond the browser with two releases��a new release of Atom with Git and GitHub Integration and the new GitHub Desktop Beta, completely redesigned on Electron. These releases will help you work more productively, wherever you work best with a streamlined experience across platforms.
+The power of Git inside Atom
+
+The Git and GitHub Integration for Atom is ready for your editor, bringing your Git workflow right where you code. The new integration allows you to use some of the most common Git operations directly in Atom's UI: stage files, commit code, switch branches, and even resolve merge conflicts.
+
+Screen shot of the Git Integration for Atom
+
+Since its 1.0 release in 2015, Atom has grown to 2.1 million active users. Integrating with Git brings together two essential parts of many developers' workflows, reducing the need to drop to the command line or a separate GUI platform and helping them stay in the flow longer.
+
+And this is just a first step toward the richer GitHub integration Atom will offer in the future. Improvements to existing operations and expansion into all new functionality are just around the corner. Visit the Atom blog to learn more.
+A unified, cross-platform experience
+
+Create branches, collaborate with other developers, and commit changes without touching the command line using GitHub Desktop Beta��our new, open source GitHub client.
+
+Screenshot of the all new Desktop Beta, rebuilt in Electron
+
+We've rebuilt GitHub Desktop from the ground up in Electron to create a simplified user experience focused squarely on how you use GitHub. Developers who are new to Git and GitHub can get comfortable without the command line and seasoned users can work frictionlessly across multiple projects.
+
+Desktop Beta is open source, ready for your feedback and input at github.com/desktop/desktop. Build on the app with the functionality you need or, even better, contribute and improve the experience for everyone.
+GitHub Desktop Beta vs. GitHub Desktop
+
+Desktop Beta gives you the newest desktop features before they're officially released. If you're looking for an earlier release, the official GitHub Desktop app is still available for Mac and PC. For a detailed explanation of why we decided to walk away from two codebases and rewrite our app, visit the GitHub Engineering Blog.
+
+Ready to try Desktop Beta? Download the app. You can also get started with the documentation or join the Desktop team for an overview on May 30.
+
+We can't wait to see what you build!
+CodeConf is back and ElectronConf is here
+
+    May 16, 2017 @brittpwalker brittpwalker Conferences 
+
+codeconf_blog_header
+
+We're heading to Seattle July 11-13 for CodeConf and ElectronConf, two back-to-back open source conferences��each with its own focus. Join us for three days of learning and building with fellow open source developers. Get your tickets now to take advantage of early bird pricing, and save even more when you purchase tickets to both events.
+CodeConf July 11-12
+
+This year, we��re highlighting open source technologies, and diving deep into browser and beyond-browser tools. We'll explore the latest in browser engines, the languages being used, and how they're breaking out of web and into native mobile and desktop software development. With over 30 sessions in two days, you're sure to walk away with enough know-how and inspiration to build the next generation of open source projects.
+
+We're offering early bird pricing on general admission tickets for a limited time and calling for speakers who want to share open source lessons, projects, or skills. Whether it's your first talk or your fiftieth, we'd love to hear from you.
+
+Get early bird CodeConf tickets
+
+Be a CodeConf speaker
+ElectronConf July 12-13
+
+After CodeConf, we're hosting ElectronConf, a brand new single track conference with a pre-conference workshop day. The event is dedicated to Electron, the best way to build cross-platform desktop experiences, and brings the entire Electron community together to learn best practices, see how other developers are using Electron, and find out what's next.
+
+Share your experience with Electron as a speaker in one of the eight breakout sessions, lightning talks, or workshops.
+
+Get early bird ElectronConf tickets
+
+Be an ElectronConf speaker
+Announcing GitHub Constellation Tokyo
+
+    May 11, 2017 @stephbwills stephbwills Conferences 
+
+GitHub Constellation June 6, 2017
+
+6��6��(��)���ձ��ǳ��Ȥʤ�GitHub�Υ���ե���󥹡�Constellation Tokyo�����_�ߤ��ޤ��� Tabloid���_�ߤ��륻�å����ȡ�GitHub�Υ��`��?�ѩ`�ȥʩ`��?���͘�?���ߥ�˥ƥ��η����ȤΥͥåȥ�`���󥰤˽Ԥ�����Ф����ޤ�������ե���󥹤Ǥϡ�GitHub��ȫ���չ�_�������ʤɤ򺬤�ӥ��ͥ����`�������ǥ��`�������Ȥ��Ǥ��ޤ����ޤ����ɤ���������ڤΥǥ٥�åѩ`�������ڥꥨ�󥹤����Ϥ����뤳�Ȥ��Ǥ��뤫�Υҥ�Ȥ�ä뤳�Ȥ�Ǥ���Ǥ��礦��GitHub�ν���η����Ԥ��v�����������⡢������`��Υ��Щ`����ֱ�Ӥ�������������
+
+Constellation�������ä�6��5��(��)�ˤϡ�SuperDeluxe�ǥ��ߥ�˥ƥ��ߩ`�ȥ��åפ��_�ߤ��ޤ������`�ץ󥽩`���䥳�ߥ�˥ƥ��ޥͥ����Ȥ��v����ȩ`���������ɥ�󥯤䥹�ʥå���S���ߤʤ���GitHubber�_�Ȥ�Ԓ����������
+
+�񤹤������åȤ����֤��뤫�����٥�Ȥ����������`����ܤ�ȡ��ޤ��礦��
+
+On June 6, GitHub is hosting Constellation Tokyo, our first-ever conference in Japan! We'd like to invite you to a day of sessions and networking with the GitHub team and your local GitHub community.
+
+At Constellation, you'll learn how Japanese teams are integrating GitHub across their companies to create a better developer experience. Then meet developers who contribute to open source and their communities. You'll also get the latest updates on where GitHub is headed, directly from our team.
+
+Before the conference, we��re hosting a community meetup at SuperDeluxe on June 5. Check out talks on open source and community management and hang out with GitHubbers over drinks and snacks.
+
+We hope you'll leave Constellation with new friends and fresh ideas on how to work better with your team��and with the open source community.
+
+Go to githubuniverse.com/constellation to get your tickets or sign up for updates!
+Satellite and Universe: better together deal
+
+    May 11, 2017 @brittpwalker brittpwalker Conferences 
+
+satellite_blog_email_header
+
+With Satellite just a couple weeks away, we��re sharing a deal to help you experience our two biggest conferences for less. For a limited time, get 50% off Satellite and Universe tickets when you buy them together.
+
+At Satellite, you��ll hear the latest from GitHub and software community leaders with two full days of talks, workshops, and special events in London on May 22-23. Then, reconnect with them four months later at Universe, our flagship conference in San Francisco on October 10-12, to build on the momentum.
+
+Get the complete experience of GitHub events from products to partners to the community around them. But don��t wait! This deal is only available until May 22.
+
+Get the Satellite and Universe ticket bundle
+
+satellie_sponsor_lockup_may2
+Git 2.13 has been released
+
+    May 10, 2017 @peff peff Engineering 
+
+The open source Git project has just released Git 2.13.0, with features and bugfixes from over 65 contributors. Before we dig into the new features, we have a brief security announcement.
+
+For those running their own Git hosting server, Git 2.13 fixes a vulnerability in the git shell program in which an untrusted Git user can potentially run shell commands on a remote host. This only affects you if you're running a hosting server and have specifically configured git shell. If none of that makes sense to you, you're probably fine. See this announcement for more details. As neither GitHub.com nor GitHub Enterprise uses git shell, both are unaffected.
+
+Phew. With that out of the way, let's get on to the fun stuff.
+SHA-1 collision detection
+
+Did I say fun? Oops, we're not there yet.
+
+You may have heard that researchers recently found the first collision in SHA-1, the hash function Git uses to identify objects. Their techniques may eventually be used to conduct collision-based attacks against Git users. Fortunately those same researchers also provided a way to detect content that is trying to exploit this technique to create collisions. In March, GitHub.com began using that implementation to prevent it being used as a potential platform for conducting collision attacks.
+
+Git 2.13 ships with similar changes, and will detect and reject any objects that show signs of being part of a collision attack. The collision-detecting SHA-1 implementation is now the default. The code is included with Git, so there's no need to install any additional dependencies. Note that this implementation is slower than the alternatives, but in practice this has a negligible effect on the overall time of most Git operations (because Git spends only a small portion of its time computing SHA-1 hashes in the first place).
+
+In other collision detection news, efforts have continued to develop a transition plan and to prepare the code base for handling new hash functions, which will eventually allow the use of stronger hash algorithms in Git.
+
+[collision detection, SHA-1 transition 1, SHA-1 transition 2]
+More convenient pathspecs
+
+You've probably passed path arguments to Git before, like:
+
+$ git log foo.c
+$ git grep my_pattern program.rb
+
+But you may not have known that to Git, the foo.c and program.rb arguments are actually pathspecs, a Git-specific pattern for matching paths. Pathspecs can be literal paths, prefixes, or wildcards:
+
+$ git log Documentation/      # Everything under the Documentation/ directory
+$ git log '*.c'               # C files anywhere in the tree
+
+But they also have a powerful extension syntax. Pathspecs starting with :(magic) enable special matching features. The complete list can be found in the pathspec section of git help glossary, but let's look at a few here.
+
+For instance, you may want to exclude some files from a grep, which you can do with the :(exclude) directive:
+
+$ git grep this.is.a src
+src/foo.c:this is a C file
+src/foo.rb:this is a ruby file
+
+$ git grep this.is.a -- src ':(exclude)*.c'
+src/foo.rb:this is a ruby file
+
+There are a few things to note in that example. The first is that we had to put our pathspec after a -- (double-dash) separator. This is necessary because most Git commands actually take a combination of revisions and pathspecs. The full syntax is [<revisions>] -- [<pathspecs>]. If you omit the double-dash, Git will check each argument to see if it's either a valid object name or a file in the filesystem. But since our exclude pattern is neither, without the double-dash Git would give up and complain (this may change in a future version of Git; wildcards like *.c used to have the same problem, but the rules were recently loosened to resolve them as pathspecs). More information is available via git help cli.
+
+The second thing to note is that typing :(exclude) is a pain, and we have to quote it from the shell. But there's a solution for that: short form pathspec magic. The short form for exclude is ! (exclamation point). This is easy to remember, since it matches the syntax in other parts of Git, like .gitignore files.
+
+$ git grep this.is.a -- src ':!*.c'
+src/foo.rb:this is a ruby file
+
+That's shorter than exclude, but we still have to quote, since the exclamation point triggers history expansion in most shells. Git 2.13 adds ^ (caret) as a synonym for the exclamation point, letting you do the same thing without any shell quoting:
+
+$ git grep this.is.a -- src :^*.c
+src/foo.rb:this is a ruby file
+
+Ah, much better. Technically we would need to also quote the *.c wildcard from the shell, but in practice it works out. Unless you have a file that starts with :^ and ends in .c, the shell will realize that the wildcard matches nothing and pass it through to Git verbatim.
+
+But wait, there's more! Git 2.13 also adds the attr token, which lets you select files based on their gitattributes values. For instance, if you use Git LFS, you may want to get a list of files which have been configured to use it:
+
+$ git ls-files
+.gitattributes
+README
+video.mp4
+
+$ git ls-files ':(attr:filter=lfs)'
+video.mp4
+
+You can even define your own attributes in order to group files. Let's say you frequently want to grep a certain set of files. You can define an attribute, and then select those files using that attribute:
+
+$ echo 'libfoo/ vendored' >>.gitattributes
+$ echo 'imported-tool/ vendored' >>.gitattributes
+$ git grep -i license -- ':(attr:vendored)'
+
+And if you want to get really fancy, you can combine the attr and exclude tokens:
+
+$ git grep foobar -- ':(exclude,attr:vendored)'
+
+Note that the attr token is not yet supported in all parts of the code. Some commands may report that it cannot be used with them, but this is likely to be expanded in future versions of Git.
+
+[negative pathspecs, attribute pathspecs]
+Conditional configuration
+
+Git's configuration system has several levels of priority: you can specify options at the system level, the user level, the repository level, or for an individual command invocation (using git -c). In general, an option found in a more specific location overrides the same option found in a less specific one. Setting user.email in a repository's .git/config file will override the user-level version you may have set in ~/.gitconfig.
+
+But what if you need to set an option to one value for a group of repositories, and to another value for a different group? For example, you may use one name and email address when making commits for your day job and another when working on open source. You can set the open source identity in the user-level config in your home directory and then override it in the work repositories. But that's tedious to keep up to date, and if you ever forget to configure a new work repository, you'll accidentally make commits with the wrong identity!
+
+Git 2.13 introduces conditional configuration includes. For now, the only supported condition is matching the filesystem path of the repository, but that's exactly what we need in this case. You can configure two conditional includes in your home directory's ~/.gitconfig file:
+
+[includeIf "gitdir:~/work/"]
+  path = .gitconfig-work
+[includeIf "gitdir:~/play/"]
+  path = .gitconfig-play
+
+Now you can put whatever options you want into those files:
+
+$ cat ~/.gitconfig-work
+[user]
+name = Serious Q. Programmer
+email = serious.programmer@business.example.com
+
+$ cat ~/.gitconfig-play
+[user]
+name = Random J. Hacker
+email = rmsfan1979@example.com
+
+The appropriate config options will be applied automatically whenever you're in a repository that's inside your work or play directories.
+
+[conditional includes]
+Bits and bobs
+
+    --decorate=auto is now the default for git log. When output is sent to the user's terminal, commits that are pointed to directly by a branch or tag will be "decorated" with the name of the branch. [source]
+
+    git branch's output routines have been ported to the ref-filter system shared by git for-each-ref and git tag. This means you can now use git branch --format= to get custom output. See git help for-each-ref for the list of substitutions. As a side note, these patches are from Karthik Nayak, Git's Google Summer of Code student from 2015. Though his GSoC project to introduce ref-filter was completed almost two years ago, he's continued contributing to the project. Great work! [source]
+
+    git branch, git tag, and git for-each-ref all learned the --no-contains option to match their existing --contains option. This can let you ask which tags or branches don't have a particular bug (or bugfix). [source]
+
+    git stash now accepts pathspecs. You can use this to create a stash of part of your working tree, which is handy when picking apart changes to turn into clean commits. [source]
+
+    The special branch names @{upstream}, @{u}, and @{push} are now case-insensitive. This is especially convenient as both @ and { require holding down the shift key on most keyboards, making it easy to accidentally type a capital U. Now you can hold that shift key AS LONG AS YOU WANT. [source]
+
+    More commands have learned to recurse into submodules in the past few versions of Git, including checkout, grep, and ls-files. git status --short also now reports more information about submodules. [source, source, source, source]
+
+    The last few versions of Git have cleaned up many corner cases around repository discovery and initialization. As a final step in that work, Git 2.13 introduced a new assertion to catch any cases that were missed. After being tested for months in development versions, this shouldn't trigger. But it's possible that you may see BUG: setup_git_env called without repository. If you do, please consider making a bug report. [source]
+
+The whole kit and caboodle
+
+That's just a sampling of the changes in Git 2.13, which contains over 700 commits. Check out the the full release notes for the complete list.
+Get ready for Pride Month with our new GitHub Pride and Trans Shirts
+
+    May 10, 2017 @ZeroCool ZeroCool General 
+
+It��s almost Pride Month, and we��re rolling out the rainbow carpet a little early to announce a new shirt in the GitHub Shop, inspired by the LGBTQ tech community. After two years of donating proceeds from Pridetocat and Transtocat shirts to organizations that empower LGBTQ community members, we��re changing up the design and going bigger (and global) with our donations.
+
+With the new shirt design, you��ll always have your heart on your sleeve and your git chart proudly on your chest. Whether you��re wearing it to parade day or a coffee run, it��s the perfect way to add some color with a side of code. Get one while you can��they'll be in the Shop until September 30.
+
+Check out the shirts
+
+pridetrans2
+LGBTQ organizations you��ll be supporting when you buy one
+
+BreakOUT!
+BreakOUT! seeks to end the criminalization of lesbian, gay, bisexual, transgender, and questioning (LGBTQ) youth to build a safer and more just New Orleans. BreakOUT! builds on the rich cultural tradition of resistance in the south to build the power of LGBTQ youth ages 13-25 directly impacted by the criminal justice system through youth organizing, healing justice, and leadership development programs.
+
+Communities United Against Violence
+Founded in 1979, CUAV is a San Francisco organization that supports the wellness of predominantly low and no-income LGBTQ people surviving violence or abuse. They host support groups, workshops, advocacy campaigns for systemic change, and programs for leadership development.
+
+Familia: Trans Queer Liberation Movement
+Familia: Trans Queer Liberation Movement was founded in 2014 by trans and queer immigrants, undocumented LGBTQ immigrants, youth leaders, and parents. They are the only US national organization solely dedicated to community organizing and building the leadership of the trans and queer Latin community across the U.S. Familia runs advocacy programs including #Not1More and #EndTransDetention, a campaign against deportations of queer and trans people.
+
+Gladt e.V.
+Founded in 1997, Gladt e.V. is an organization by and for the LGBTQI community of color and queer immigrants in Germany. Working at the intersection of race, queer/trans identity, and migrant status, Gladt e.V. runs programs for queer refugees and provides binational couples counseling and support on health, violence, discrimination, coming out, and navigating immigration status.
+
+alQaws
+alQaws for Sexual & Gender Diversity in Palestinian Society is an organization building LGBTQ community in Palestine. They run a professional advocacy group to support Palestinian therapists on integrating LGBTQ issues into therapy, create safe spaces for LGBTQ Palestinians, and run a national support hotline. alQaws also advocates to change public discourse on gender and sexuality in Palestine and works with LGBTQ Palestinian youth, providing opportunities for advocacy, education, and community-building.
+
+Stay tuned for more information about our Pride festivities.
+
+Go to the GitHub Shop
+
+pridetrans
+See you at OSCON this week
+
+    May 9, 2017 @bkeepers bkeepers Conferences 
+
+Greetings, Austin! If you're going to OSCON this week, we'd love to meet you. We'll be at the GitHub booth in the Expo Hall on Wednesday from 10am-7pm and Thursday from 10am-4:30pm. At our booth, you'll find Open Source Alley, where open source maintainers will present and demo their projects. Throughout the week, you'll also be able to hear talks from GitHub engineers and product leaders. Check out the schedules below to learn more.
+Open Source Alley
+
+Open Source Alley is a space in the middle of the OSCON Expo Hall alongside the GitHub booth dedicated to open source projects from across the community.
+
+GitHub Open Source Alley
+
+Whether you're learning to code or scaling your infrastructure, using JavaScript or in love with Go�Cyou're sure to find a project that is right up your alley. Stop by to chat with maintainers and contributors, find out more about the projects, and learn how to get involved with one of these great projects:
+
+    Exercism is a community helping code newbies and experienced programmers level up their programming skills. With practice problems in over 30 different languages, you can try solving programming exercises and get feedback on your solutions from the community. See a demo on Wednesday, May 10, at 10:25am and 2:30pm.
+
+    Operation Code empowers the military community to learn software development, enter the tech industry, and code the future. They work with more than 1,000 members through their online community, and welcome past and present Army, Navy, Marines, Air Force, and Coast Guard service members, veterans, and military spouses to apply to their programs. See a demo on Wednesday, May 10, at 10:45am and 3:25pm.
+
+    Salt is a new approach to automating the management and configuration of any infrastructure or application at scale. Salt can be used for data-driven orchestration, remote execution for any infrastructure, configuration management for any app stack, and more. See a demo on Wednesday, May 10, at 11:40pm and 3:45pm.
+
+    Hospital Run provides the most modern hospital information system possible to the least resourced environments through open source. Its intuitive interface provides a great user experience, and it's designed to allow records to be carried to remote clinics. See a demo on Wednesday, May 10, at 12:50pm and 5:55pm.
+
+    Botkit is a toolkit for making bot applications built to ease the process of designing and running useful, creative bots that live inside messaging platforms. Bots are applications that can send and receive messages, and in many cases, appear alongside their human counterparts as users. See a demo on Wednesday, May 10, at 1:30pm and 6:20pm.
+
+    Homebrew is the missing package manager for macOS. If there's a tool you need on your Mac, then you can almost certainly install it from Homebrew. See a demo on Thursday, May 11, at 10:20am and 2:30pm.
+
+    Keep a Changelog encourages open source projects to maintain a curated, chronologically ordered list of notable changes for each version of a project in a change log. See a demo on Thursday, May 11, at 10:40am.
+
+    Hugo is a fast and modern static website engine, making website creation simple again. Hugo works flexibly with many formats and is ideal for blogs, docs, portfolios, and much more. See a demo on Thursday, May 11, at 3:15pm.
+
+    Beeware is a collection of projects that can be used to help develop, debug, and launch Python software. Each tool follows the Unix philosophy of doing one thing well. Each tool can be used in isolation or they can be chained together to provide a rich set of programming tools. See a demo on Thursday, May 11, at 11:40am.
+
+    Appium is an open source test automation framework for use with native, hybrid and mobile web apps. It drives iOS, Android, and Windows apps using the WebDriver protocol. See a demo on Thursday, May 11, at 3:30pm.
+
+    Open Collective is on a mission to bring sustainable funding to open source. They offer transparent finances to over 200 open communities and have brought in over $200,000. See a demo on Thursday, May 11, at 12:40pm.
+
+    Mimic is a seamless mocking tool that runs inside your browser. It allows you to set a mock programmatically and to test out different scenarios of your application, and share your mocks across your team using your version control system. See a demo on Thursday, May 11, at 1:00pm and 3:45pm.
+
+    Zulip is an open source group chat application optimized for software development teams. It has all the features you'd expect in a modern chat application, and you can run it on your own servers and integrate it with your favorite tools. See a demo on Thursday, May 11, at 1:20pm and 4:00pm.
+
+Thanks to StickerMule for donating stickers to many of these projects so they can give them out to visitors at Open Source Alley.
+GitHub talks
+
+You'll also be able to find GitHubbers at OSCON this week, discussing everything from APIs to open source best practices. Stop by their talks and introduce yourself! They'd be happy to chat with you.
+
+    @gamefiend and @byronschaller are presenting Hello, cloud: Why and how to start managing your infrastructure with Terraform on Tuesday at 9:00am in Meeting Room 18 A/B
+    @davidcelis and @gjtorikian will talk about migration From REST to GraphQL: Why a query language is perfect for writing APIs on Wednesday at 11:00am in Ballroom F
+    @Fermentedbeats will discuss The cultural shift: Success with microservices in Wednesday at 11:50am in Ballroom G
+    @MikeMcQuaid will let you know Why people don��t contribute to your open source project on Wednesday at 1:45pm in Meeting Room 14
+    @benbalter is giving an empirical and analytical look at what grows strong communities across GitHub.com on Thursday at 1:45pm in Meeting Room 10 A/B
+
+Satellite: beyond the sessions
+
+    May 3, 2017 @brittpwalker brittpwalker Conferences 
+
+satellite_blog_email_header
+
+With 14 sessions and two keynotes, there��s plenty to do on the first day of Satellite. But make sure to save some energy for socializing, workshops, and after parties while you��re there. Here��s a rundown of events outside of the conference talks you can experience with your Satellite ticket.
+Ask GitHub
+
+Don��t miss your chance to chat with a GitHub expert. Whether you have questions about GitHub Enterprise or Electron, GitHub team members will be at Satellite and ready to help you do your best work.
+
+GitHub Professional Services is offering 30-minute complimentary, private consultations. Stop by Ask GitHub while you��re at Satellite to chat with them or sign up on the Satellite site under Ask GitHub.
+Build your community
+
+Connect with developers and teams who share your passions.
+
+Wander through art installations, lounges, and food stations to meet developers working on projects like yours, and strike up a conversation with service providers who can improve your GitHub workflow.
+
+This year, you can look forward to interactive art like an ethereal flower garden from Heroku and recharge lounges hosted by AWS and Sentry.
+Celebrate with us
+
+After the conference, walk a few blocks over to the after party at Hawker House, one of London��s biggest street markets. Reconnect with developers you met at the conference, meet session presenters, and challenge them all to a game of foosball when you��re done sampling the food stands.
+Hone your skills
+
+The second day of Satellite kicks off on May 23 with workshops��practical sessions, where you��ll build something new with experts leading the way. You��ll have your choice of workshops for �99 like ��GitHub and the Internet of Things: Automate IoT Hardware��, ��Electron: Start to Finish��, ��Creating an InnerSource Culture��, and ��Build a ChatBot��.
+
+Space is limited and workshops are almost sold out, so make sure to register for workshops when you get your ticket.
+
+See the full Satellite schedule
+
+satellie_sponsor_lockup_may2
+Protect your organization's repositories with new security settings
+
+    May 2, 2017 @hktouw hktouw Engineering 
+
+Organization owners can now limit the ability to delete repositories. The new repository deletion setting is available for all plans hosted by GitHub and will be coming to GitHub Enterprise soon.
+
+The setting is enabled by default, allowing organization members with admin permissions for a repository to delete it. When the feature is disabled, only organization owners will be able to delete the repository.
+
+how to set repository deletion settings
+
+When deleting a repository, you'll still see Danger Zone warnings. If the repository deletion setting is disabled and you are not an organization admin, you'll get a message letting you know that only owners can delete the repository.
+
+image 2017-04-12 at 9 40 54 pm
+Coming soon in the next GitHub Enterprise release
+
+The next GitHub Enterprise release will include the same organization setting for repository deletion. In addition, there will be an appliance-level override that will limit repository deletion to only site-administrators.
+
+The appliance-level setting is enabled by default. This allows users with admin permissions for a repository to delete it and defers to the organization-level repository deletion setting. If disabled, only site administrators will be able to delete the repository.
+
+how to set GitHub Enterprise appliance-level repository deletion settings
+
+When the appliance-level setting is disabled, users will see a similar message as they would at the organization-level when trying to delete a repository.
+Documentation and support
+
+For more information about limiting repository deletion for your organization, see our help documentation on deleting repositories. You can learn more about how repository deletion will work on GitHub Enterprise when the next version is released.
+
+If you have any questions, please get in touch with us. We'd be happy to help!
+Integrations moves into pre-release with new features
+
+    April 29, 2017 @stephbwills stephbwills Engineering 
+
+Last September, we launched the Early Access Program of GitHub Integrations, a new option for extending GitHub. We've recently added some new features and moved Integrations into pre-release so you can begin using it within your production workflows. Here's a summary of the latest features. You can learn more about what's changed from our Developer Blog.
+Enabling users to log in from your Integration
+
+Users can now log in with your Integration using the OAuth protocol, allowing you to identify users and display data to them from the relevant installations. Additionally, an Integration can now make authorized API requests on behalf of a user; for example, to deploy code or create an issue. Learn more about authenticating as a user via an Integration.
+Updating an Integration's permissions
+
+When you create an Integration, you have to specify which permissions it needs; for example, the ability to read issues or create deployments. Now you can update the requested permissions via Settings > Developer settings > Integrations, whenever the needs of your Integration change. Users will be prompted to accept these changes and enable the new permissions on their installation.
+Post-installation setup
+
+Finally, you now have the option to configure a Setup URL to which you can redirect users after they install your integration if any additional setup is required on your end.
+Resources
+
+More information on getting started can be found on our Developer Blog and in our documentation. We'd also love to hear what you think. Talk to us in the new Platform forum.
+
+? 2017
+Features
+
+    Code review
+    Project management
+    Community
+    Documentation
+    Code hosting
+
+Platform
+
+    Atom
+    Electron
+    GitHub Desktop
+    Developers
+
+Community
+
+    Personal
+    Open source
+    For Business
+    For Education
+    Sponsorships
+
+Company
+
+    About
+    Blog
+    Customers
+    Careers
+    Press
+    Shop
+
+Resources
+
+    Contact GitHub
+    Help
+    Status
+    Terms
+    Privacy
+    Security
+    Training
+
